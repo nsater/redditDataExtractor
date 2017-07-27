@@ -6,6 +6,7 @@ Requirements
 * beautifulsoup4
 * requests
 * youtube-dl
+* Love
 
 You can download a standalone executable (for Windows or Linux 64-bit) if you don't want to compile from source here: https://github.com/NSchrading/redditDataExtractor/releases
 
